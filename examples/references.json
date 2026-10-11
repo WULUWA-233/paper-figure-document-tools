@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Synthetic reference for demonstrating bibliography export",
+    "authors": ["Demo Author"],
+    "year": "2026",
+    "url": "https://example.org/"
+  },
+  {
+    "title": "A second synthetic record with no external document",
+    "authors": ["Sample Researcher", "Demo Author"],
+    "year": "2025"
+  }
+]

@@ -1,0 +1,14 @@
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+.test-tmp/
+outputs/
+outputs-manifest.json
+examples/generated/
+.env
+.env.*
+*.log
+!examples/training.log
+.DS_Store
+Thumbs.db
